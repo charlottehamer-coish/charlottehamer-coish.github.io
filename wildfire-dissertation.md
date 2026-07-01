@@ -27,8 +27,11 @@ Objective 1: Determine spatial and temporal differences in annual lightning dens
 Objective 2: Determine spatial and temporal differences in annual BA.  
 Objective 3: Investigate the relationship between BA, lightning and climate indices. 
 Objective 4: Investigate case studies to illustrate different contributing factors on LIWs.  
-RQ2: Has the Canadian fire season changed since 2010? 
+
+Research Question 2: Has the Canadian fire season changed since 2010? 
 Objective 1: Determine changes in the length of the fire season. 
 Objective 2: Investigate the relationship between the fire season length, lightning occurrence,
 and climate oscillations.  
 Objective 3: Investigate the relationship between the fire season length and BA.
+
+## Data 

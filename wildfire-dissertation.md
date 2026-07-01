@@ -35,3 +35,15 @@ and climate oscillations.
 Objective 3: Investigate the relationship between the fire season length and BA.
 
 ## Data 
+- Lightning Data: Canadian Convective Parameters and Lightning Dataset v1 (Canadian Government, 2024)
+- Burned Area Data: Canadian Fire Spread Dataset (Barber _et al._, 2024)
+- Climate Oscillation Data: National Oceanic and Atmospheric Administration monthly measurements (2025)
+- Land Classification Data: Operational Land Imager Landsat Sensor Data (Canadian Government Open Data Source, 2020)
+
+## Methods 
+### MATLAB
+- Combined 3-hourly lightning data into annual density GeoTIFF maps
+- Statistical analysis of lightning frequency against BA and climate indicators 
+
+### QGIS 
+- 

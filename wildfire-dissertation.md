@@ -23,16 +23,17 @@ This study aims to quantify the spatial and temporal variation in LIWs across Ca
 Information Systems (GIS). 
 
 Research Question 1: To what extent is there a relationship between lightning and BA in Canada? 
-Objective 1: Determine spatial and temporal differences in annual lightning density. 
-Objective 2: Determine spatial and temporal differences in annual BA.  
-Objective 3: Investigate the relationship between BA, lightning and climate indices. 
-Objective 4: Investigate case studies to illustrate different contributing factors on LIWs.  
+
+- Objective 1: Determine spatial and temporal differences in annual lightning density. 
+- Objective 2: Determine spatial and temporal differences in annual BA.
+- Objective 3: Investigate the relationship between BA, lightning and climate indices.
+- Objective 4: Investigate case studies to illustrate different contributing factors on LIWs.  
 
 Research Question 2: Has the Canadian fire season changed since 2010? 
-Objective 1: Determine changes in the length of the fire season. 
-Objective 2: Investigate the relationship between the fire season length, lightning occurrence,
+- Objective 1: Determine changes in the length of the fire season. 
+- Objective 2: Investigate the relationship between the fire season length, lightning occurrence,
 and climate oscillations.  
-Objective 3: Investigate the relationship between the fire season length and BA.
+- Objective 3: Investigate the relationship between the fire season length and BA.
 
 ## Data 
 - Lightning Data: Canadian Convective Parameters and Lightning Dataset v1 (Canadian Government, 2024)

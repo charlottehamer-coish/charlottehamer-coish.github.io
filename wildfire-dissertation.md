@@ -51,4 +51,4 @@ Objective 3: Investigate the relationship between the fire season length and BA.
 - Case studies: identifying individual lightning strikes, land classification analysis, DEMs (Google Earth Engine)
 
 ## Results
-
+### Research Question 1: To what extent is there a relationship between lightning and BA in Canada?

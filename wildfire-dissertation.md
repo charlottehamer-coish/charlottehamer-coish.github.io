@@ -46,4 +46,9 @@ Objective 3: Investigate the relationship between the fire season length and BA.
 - Statistical analysis of lightning frequency against BA and climate indicators 
 
 ### QGIS 
-- 
+- Lightning density maps (annual, total, mean, standard deviation)
+- Burned area maps (annual, total, hotspot)
+- Case studies: identifying individual lightning strikes, land classification analysis, DEMs (Google Earth Engine)
+
+## Results
+

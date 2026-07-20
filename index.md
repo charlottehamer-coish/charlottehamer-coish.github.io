@@ -1,5 +1,11 @@
 # Charlotte Hamer-Coish 
-# GIS | Remote Sensing | Geospatial and Environmental Data Analysis
+## GIS | Remote Sensing | Geospatial and Environmental Data Analysis
+
+<a href="assets/Charlotte_Hamer-Coish_CV.pdf"
+   target="_blank"
+   class="cv-button">
+    📄 View CV
+</a>
 
 ## MGeogSci Geography Graduate 
 Current Fourth Year MGeogSci student at the University of Sheffield interested in:

@@ -1,39 +1,29 @@
 # Lightning-Ignited Wildfires in Canada 2010-2024: A Spatiotemporal Analysis
-## Abstract
-Wildfires are posing an increasing threat to boreal forests across the world, with Canada’s 
-boreal forest experiencing intensifying fire seasons. The increased spatial and temporal 
-variability of these events, particularly lightning-ignited wildfires (LIWs), is posing an 
-increasing threat to humans, infrastructure and the environment. Therefore, understanding the 
-drivers of wildfire events on a national scale is critical to protecting the forest ecosystem and 
-its surroundings. This study aims to discern the relationship between lightning, climate and 
-burned area due to wildfires, as well as changes to the Canadian fire season that are occurring 
-under a warming climate. GIS and statistical analyses were conducted to quantify the spatial 
-and temporal changes to wildfire occurrence from 2010 to 2024, to understand the current 
-drivers of LIW behaviour. The study found a strong relationship between climate oscillations, 
-lightning occurrence and wildfires, and that fire seasons are becoming longer as the climate 
-warms. The length of the fire season is also affected by climate oscillations, and 
-understanding these interactions is vital in further wildfire mitigation and adaptation strategies 
-across the country. Therefore, this study has showed that the threat of wildfires across Canada 
-is significantly increasing, with more of the country at risk for longer each year, so measures 
-should be put in place to protect high-risk areas.
+## Overview 
+This project investigates the changes in lightning-ignited wildfires across Canada between 2010 and 2024, using GIS, statistical analysis and multiple large geospatial datasets 
 
-## Aims and Objectives
-This study aims to quantify the spatial and temporal variation in LIWs across Canada between 
-2010 and 2024 and investigate climatic drivers of these changes using Geographical 
-Information Systems (GIS). 
+The study uses lightning, wildfire, and climate datasets to examine:
 
-Research Question 1: To what extent is there a relationship between lightning and BA in Canada? 
+- Spatial and temporal patterns in lightning occurrence
+- Spatial and temporal patterns in burned area
+- Climatic drivers of wildfire behaviour
+- Changes in Canadian fire season length
+- Case study regions (Jasper, 2024; White Rock Lake, 2021)
 
-- Objective 1: Determine spatial and temporal differences in annual lightning density. 
-- Objective 2: Determine spatial and temporal differences in annual BA.
-- Objective 3: Investigate the relationship between BA, lightning and climate indices.
-- Objective 4: Investigate case studies to illustrate different contributing factors on LIWs.  
+## Key Objectives
+- Analyse spatial and temporal variation in lightning activity
+- Map wildfire hotspots across Canada
+- Investigate relationships between lightning, climate oscillations and burned area
+- Examine changes in wildfire season length
 
-Research Question 2: Has the Canadian fire season changed since 2010? 
-- Objective 1: Determine changes in the length of the fire season. 
-- Objective 2: Investigate the relationship between the fire season length, lightning occurrence,
-and climate oscillations.  
-- Objective 3: Investigate the relationship between the fire season length and BA.
+## Skills demonstrated
+- QGIS
+- MATLAB
+- Google Earth Engine
+- Raster analysis
+- GeoTIFF generation
+- Statistical analysis including regression modelling
+- Processing of large datasets 
 
 ## Data 
 - Lightning Data: Canadian Convective Parameters and Lightning Dataset v1 (Canadian Government, 2024)
@@ -44,7 +34,7 @@ and climate oscillations.
 ## Methods 
 ### MATLAB
 - Combined 3-hourly lightning data into annual density GeoTIFF maps
-- Statistical analysis of lightning frequency against BA and climate indicators 
+- Statistical analysis of lightning frequency against BA and climate indicators, including regression models
 
 ### QGIS 
 - Lightning density maps (annual, total, mean, standard deviation)
@@ -52,4 +42,16 @@ and climate oscillations.
 - Case studies: identifying individual lightning strikes, land classification analysis, DEMs (Google Earth Engine)
 
 ## Results
-### Research Question 1: To what extent is there a relationship between lightning and BA in Canada?
+- Lightning became increasingly spatially diverse
+- Lightning occurrence appears to be decreasing, but ignition efficiency is increasing so LIWs are becoming more frequent and severe
+- Large- and local-scale climate conditions strongly influence a region's ability to ignite and for the fire to spread
+- The Arctic Oscillation, El Nino Southern Oscillation, and the Pacific Decadal Oscillation influence lightning occurrence and burned area
+- The Canadian fire season is both starting earlier and ending later, which correlates with a lengthening lightning season
+- It is likely that extreme fire years, such as 2023, will become more frequent
+
+## Example figures
+<img width="795" height="492" alt="map" src="https://github.com/user-attachments/assets/e84a81b8-ca9f-4700-bbc5-4c2b4d38feeb" />
+<img width="752" height="416" alt="hotspot" src="https://github.com/user-attachments/assets/70c6c3bc-d36f-4f8f-a2c1-e8256d696489" />
+<img width="478" height="686" alt="wrl" src="https://github.com/user-attachments/assets/e53fef0e-a428-4df4-b2ee-4feb37eb548c" />
+<img width="737" height="527" alt="wrl2" src="https://github.com/user-attachments/assets/d1d3c2d5-96ae-4fbd-854e-624f880cd18c" />
+

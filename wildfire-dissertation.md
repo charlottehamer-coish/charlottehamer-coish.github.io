@@ -62,13 +62,13 @@ The study integrates national-scale geospatial lightning, wildfire, and climate 
 
 ## 🗺️Example Figures
 <p align="center">
-<img src="map.png" width="48%">
-<img src="hotspot.png" width="48%">
+<img src="https://github.com/user-attachments/assets/9111e08b-cf63-4c02-8152-f2316a630cf7" width="48%">
+<img src="https://github.com/user-attachments/assets/05bdbacc-c377-46b9-aecc-bd9e290a108b" width="48%">
 </p>
 
 <p align="center">
-<img src="wrl.png" width="48%">
-<img src="wrl2.png" width="48%">
+<img src="https://github.com/user-attachments/assets/0046925e-e994-4c66-9864-1e12b5ab359c" width="48%">
+<img src="https://github.com/user-attachments/assets/310a88ed-3ddb-4144-a027-2845bb9e4940" width="48%">
 </p>
 
 ## ⚙️Challenges

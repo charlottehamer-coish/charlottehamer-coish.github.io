@@ -1,6 +1,6 @@
 # Charlotte Hamer-Coish 
 ## GIS | Remote Sensing | Geospatial and Environmental Data Analysis
-## Seeking opportunities in GIS, data analytics, and conservation.
+### Seeking opportunities in GIS, data analytics, and conservation.
 
 <a href="assets/Charlotte_Hamer-Coish_CV.pdf"
    target="_blank"

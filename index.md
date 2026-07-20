@@ -10,7 +10,8 @@
 <a href="https://www.linkedin.com/in/your-linkedin-name/"
    target="_blank"
    class="cv-button">
-    LinkedIn
+   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/87db47d7-8f8b-4c2c-9750-f3dade0d651c" />
+ LinkedIn
 </a>
 
 ## MGeogSci Geography Graduate 

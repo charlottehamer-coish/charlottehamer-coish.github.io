@@ -10,7 +10,7 @@
 <a href="https://www.linkedin.com/in/your-linkedin-name/"
    target="_blank"
    class="cv-button">
-   <img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/87db47d7-8f8b-4c2c-9750-f3dade0d651c" />
+   <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/87db47d7-8f8b-4c2c-9750-f3dade0d651c" />
  LinkedIn
 </a>
 

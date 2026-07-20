@@ -19,7 +19,7 @@ The study integrates national-scale geospatial lightning, wildfire, and climate 
 ## Skills demonstrated
 ### Technical Skills
 - QGIS
-- MATLAB
+![MATLAB](https://img.shields.io/badge/MATLAB-Data%20Analysis-orange)
 - Google Earth Engine
 ### GIS & Spatial Analysis
 - Raster analysis

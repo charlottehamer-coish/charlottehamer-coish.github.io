@@ -7,6 +7,12 @@
     📄 View CV
 </a>
 
+<a href="https://www.linkedin.com/in/your-linkedin-name/"
+   target="_blank"
+   class="cv-button">
+    LinkedIn
+</a>
+
 ## MGeogSci Geography Graduate 
 Current Fourth Year MGeogSci student at the University of Sheffield interested in:
 - GIS

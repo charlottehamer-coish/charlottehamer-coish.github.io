@@ -7,7 +7,7 @@
     📄 View CV
 </a>
 
-<a href="https://www.linkedin.com/in/your-linkedin-name/"
+<a href="www.linkedin.com/in/charlotte-hamer-coish"
    target="_blank"
    class="cv-button">
    <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/87db47d7-8f8b-4c2c-9750-f3dade0d651c" />

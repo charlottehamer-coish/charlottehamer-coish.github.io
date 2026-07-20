@@ -1,5 +1,6 @@
 # Charlotte Hamer-Coish 
 ## GIS | Remote Sensing | Geospatial and Environmental Data Analysis
+## Seeking opportunities in GIS, data analytics, and conservation.
 
 <a href="assets/Charlotte_Hamer-Coish_CV.pdf"
    target="_blank"
@@ -14,12 +15,6 @@
  LinkedIn
 </a>
 
-## MGeogSci Geography Graduate 
-Current Fourth Year MGeogSci student at the University of Sheffield interested in:
-- GIS
-- Spatial analysis
-- Hazard mapping
-- Remote sensing
 
 ## Previous Projects 
 - Undergraduate Dissertation: A Spatiotemporal Analysis of Lightning-Ignited Wildfires in Canada 2010-2024
@@ -27,6 +22,21 @@ Current Fourth Year MGeogSci student at the University of Sheffield interested i
    [View Project →](wildfire-dissertation.md)
 - Multi-Criteria Wind Farm Suitability Analysis in Cumbria (windfarm.md)
 - Glacial Flute Mapping Using UAV Data and Structure from Motion (glacial.md)
+
+## Technical Skills 
+- GIS
+- Statistical Analysis
+- Remote Sensing
+- Data Visualisation
+- Cartography
+
+## About Me 
+Current Fourth Year MGeogSci student at the University of Sheffield interested in:
+- GIS
+- Spatial analysis
+- Hazard mapping
+- Remote sensing
+
 
 ## Contact 
 Email: charlottehc@live.com

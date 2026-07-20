@@ -62,14 +62,15 @@ The study integrates national-scale geospatial lightning, wildfire, and climate 
 
 ## 🗺️Example Figures
 <p align="center">
-<img src="https://github.com/user-attachments/assets/9111e08b-cf63-4c02-8152-f2316a630cf7" width="48%">
-<img src="https://github.com/user-attachments/assets/05bdbacc-c377-46b9-aecc-bd9e290a108b" width="48%">
+  <img src="https://github.com/user-attachments/assets/55372d71-b39a-426f-b656-367da3a7ca71" width="48%" alt="Lightning and Burned Area Map"/>
+  <img src="https://github.com/user-attachments/assets/af679926-dc2b-4765-ba0f-afa715d59506" width="48%" alt="Wildfire Hotspots"/>
 </p>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0046925e-e994-4c66-9864-1e12b5ab359c" width="48%">
-<img src="https://github.com/user-attachments/assets/310a88ed-3ddb-4144-a027-2845bb9e4940" width="48%">
+  <img src="https://github.com/user-attachments/assets/635b6626-5f13-4430-91c6-7ed84bf62a42" width="48%" alt="White Rock Lake Case Study"/>
+  <img src="https://github.com/user-attachments/assets/0eeeba6a-45ec-43af-91e7-9f07ce9f4a4a" width="48%" alt="White Rock Lake Analysis"/>
 </p>
+
 
 ## ⚙️Challenges
 - Analysing national-scale gridded datasets, including the CLDN lightning data, required efficient data handling in MATLAB, where it was exported as a GeoTIFF file to allow further analysis to be conducted in QGIS

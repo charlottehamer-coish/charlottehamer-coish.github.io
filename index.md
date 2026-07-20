@@ -1,6 +1,8 @@
 # Charlotte Hamer-Coish 
+# GIS | Remote Sensing | Geospatial and Environmental Data Analysis
+
 ## MGeogSci Geography Graduate 
-I am a current Fourth Year MGeogSci student at the University of Sheffield interested in
+Current Fourth Year MGeogSci student at the University of Sheffield interested in:
 - GIS
 - Spatial analysis
 - Hazard mapping
